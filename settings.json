@@ -1,7 +1,7 @@
 {
     "main_color": "#FFF",
     "secundary_color": "#FFF",
-    "show_bottom_menu": true,
-    "show_top_bar": true,
+    "show_bottom_menu": "show",
+    "show_top_bar": "show",
     "logo": "https://ilakkiasabap.wordpress.com/wp-content/uploads/2018/05/bsbr1t9a0resdcqo.png?w=621&h=221"
 }
