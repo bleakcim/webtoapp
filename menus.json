@@ -1,0 +1,24 @@
+{
+   "Menus":[
+      {
+         "name":"Home",
+         "url":"https://magik.dev/",
+         "icon":"home"
+      },
+      {
+         "name":"Serviços",
+         "url":"https://magik.dev/servicos/",
+         "icon":"service"
+      },
+      {
+         "name":"Sobre nós",
+         "url":"https://magik.dev/sobre-nos",
+         "icon":"home"
+      },
+      {
+         "name":"Contato",
+         "url":"https://magik.dev/contato",
+         "icon":"home"
+      }
+   ]
+}
