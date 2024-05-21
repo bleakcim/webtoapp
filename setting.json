@@ -17,5 +17,6 @@
     "bottom_menu_icon_active_color": "#FFF",
     "bottom_menu_icon_inactive_color": "#FFF",
     "bottom_menu_text_active_color": "#FFF",
-    "bottom_menu_text_inactive_color": "#FFF"
+    "bottom_menu_text_inactive_color": "#FFF",
+    "custom_css": ".elementor.elementor-4187.elementor-location-header {display: none;}"
 }
